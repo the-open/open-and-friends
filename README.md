@@ -1,23 +1,21 @@
----
----
-open-and-friends
-================
+open-and-friends Github directory
+=================================
 
-Add yourself into the `members` list in `_config.yml`, and add your repositories to `repositories`.
+Add yourself and your repositories to this list! All members of the open-and-friends
+team should have read/write access to this readme file.
+
+If you'd like to keep a fork of your work on OPEN's GitHub, any member of the
+open-and-friends team can create forks, even private ones. Get in touch with me
+(michaelsnook) if you'd like me to grant read and/or write access for one of
+these repos to the rest of the team.
 
 ## Members
 
-{% for member in site.members %}
-{{ member.name }}, {{ member.org }} [{{ member.github }}](https://github.com/{{ member.github }})
-{% endfor %}
+Michael Snook, OPEN ([michaelsnook](https://github.com/michaelsnook))
 
 ## Repositories
 
-{% for repo in site.repositories %}
-**{{ repo.title }}**, [{{ repo.link }}]({{ repo.link }}). contact: [{{ repo.contact }}](https://github.com/{{ repo.contact }})
-
-* {{ repo.description }} *
-
-{% endfor %}
-
-hi *hi* hi
+**OPEN and friends**  
+Link: [https://github.com/the-open/open-and-friends](https://github.com/the-open/open-and-friends)  
+Contact: [michaelsnook](https://github.com/michaelsnook)  
+Description: *This repository is just a list of people on the team and projects people are sharing.*

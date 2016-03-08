@@ -31,7 +31,7 @@ Link: [https://github.com/controlshift/prague-server](https://github.com/control
 Contact: [woodhull](https://github.com/woodhull)  
 Description: *Stripe powered donation processing that talks to ActionKit and BSD.*
 
-**ActionKit ruby gem**
-Link: [https://github.com/controlshift/action_kit_rest](https://github.com/controlshift/action_kit_rest)
-Contact: [woodhull](https://github.com/controlshift/action_kit_rest)
-Description: *Ruby bindings for parts of the AK API.*
+**ActionKit ruby gem**  
+Link: [https://github.com/controlshift/action_kit_rest](https://github.com/controlshift/action_kit_rest)  
+Contact: [woodhull](https://github.com/controlshift/action_kit_rest)  
+Description: *Ruby bindings for parts of the AK API.*  

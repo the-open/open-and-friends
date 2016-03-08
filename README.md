@@ -12,6 +12,7 @@ these repos to the rest of the team.
 ## Members
 
 Michael Snook, OPEN ([michaelsnook](https://github.com/michaelsnook))
+B.J. Rossiter, GetUp ([bxjx](https://github.com/bxjx))
 
 ## Repositories
 

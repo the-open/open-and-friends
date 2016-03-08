@@ -13,6 +13,7 @@ these repos to the rest of the team.
 
 * Michael Snook, OPEN ([michaelsnook](https://github.com/michaelsnook))
 * B.J. Rossiter, GetUp ([bxjx](https://github.com/bxjx))
+* Rich Shakespeare, 38 Degrees ([richshakespeare](https://github.com/richshakespeare))
 
 ## Repositories
 

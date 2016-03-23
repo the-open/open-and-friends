@@ -37,7 +37,8 @@ Link: [https://github.com/controlshift/action_kit_rest](https://github.com/contr
 Contact: [woodhull](https://github.com/controlshift/action_kit_rest)  
 Description: *Ruby bindings for parts of the AK API.*  
 
-**AK JS**
-Link: [https://github.com/MoveOnOrg/ak-js](https://github.com/MoveOnOrg/ak-js)
-Contact: [sreynen](https://github.com/sreynen)
+
+**AK JS**  
+Link: [https://github.com/MoveOnOrg/ak-js](https://github.com/MoveOnOrg/ak-js)  
+Contact: [sreynen](https://github.com/sreynen)  
 Description: *JS snippets for use in ActionKit*

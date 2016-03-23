@@ -17,6 +17,7 @@ these repos to the rest of the team.
 * Omar Sahyoun, SumOfUs ([osahyoun](https://github.com/osahyoun))
 * Xavier Dutoit, We Move Europe ([tttp](https://github.com/tttp))
 * Nathan Woodhull, ControlShift ([woodhull](https://github.com/woodhull)) ([controlshift](https://github.com/controlshift))
+* Scott Reynen, MoveOn ([sreynen](https://github.com/sreynen))
 
 
 ## Repositories
@@ -35,3 +36,8 @@ Description: *Stripe powered donation processing that talks to ActionKit and BSD
 Link: [https://github.com/controlshift/action_kit_rest](https://github.com/controlshift/action_kit_rest)  
 Contact: [woodhull](https://github.com/controlshift/action_kit_rest)  
 Description: *Ruby bindings for parts of the AK API.*  
+
+**AK JS**
+Link: [https://github.com/MoveOnOrg/ak-js](https://github.com/MoveOnOrg/ak-js)
+Contact: [sreynen](https://github.com/sreynen)
+Description: *JS snippets for use in ActionKit*

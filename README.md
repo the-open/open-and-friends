@@ -9,6 +9,8 @@ open-and-friends team can create forks, even private ones. Get in touch with me
 (michaelsnook) if you'd like me to grant read and/or write access for one of
 these repos to the rest of the team.
 
+See also, the [code of conduct](CODE-OF-CONDUCT) for participating in this group. 
+
 ## Members
 
 * Michael Snook, OPEN ([michaelsnook](https://github.com/michaelsnook))

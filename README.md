@@ -13,7 +13,7 @@ See also, the [code of conduct](CODE-OF-CONDUCT) for participating in this group
 
 ## Members
 
-* Michael Snook, OPEN ([michaelsnook](https://github.com/michaelsnook))
+* Michael Snook ([michaelsnook](https://github.com/michaelsnook))
 * B.J. Rossiter, GetUp ([bxjx](https://github.com/bxjx))
 * Rich Shakespeare, 38 Degrees ([richshakespeare](https://github.com/richshakespeare))
 * Omar Sahyoun, SumOfUs ([osahyoun](https://github.com/osahyoun))
@@ -26,7 +26,7 @@ See also, the [code of conduct](CODE-OF-CONDUCT) for participating in this group
 
 **OPEN and friends**  
 Link: [https://github.com/the-open/open-and-friends](https://github.com/the-open/open-and-friends)  
-Contact: [michaelsnook](https://github.com/michaelsnook)  
+Contact: Samson, Ben, Laura at the OPEN
 Description: *This repository is just a list of people on the team and projects people are sharing.*
 
 **Prague**  

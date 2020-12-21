@@ -7,8 +7,8 @@ The OPEN Network is dedicated to providing a harassment-free experience for ever
 and expression, sexual orientation, disability, physical appearance, body size, age, race, or religion. We do not tolerate 
 harassment of participants in any form.
 
-This code of conduct applies to all The OPEN Network spaces, including our mailing lists, slack team, GitHub discussions, 
-Facebook groups, and in-person events. Anyone who violates this code of conduct may be sanctioned or expelled from these 
+This code of conduct applies to all the OPEN Network spaces, including our mailing lists, Slack workspaces (including the OPEN wide, and OPEN tech&friends), GitHub discussions and code repositories, 
+Facebook groups, any other online forums we may host or use, plus all OPEN online and in-person events. Anyone who violates this code of conduct may be sanctioned or expelled from these 
 spaces at the discretion of the [OPEN Tech Team](mailto:tech@the-open.net).
 
 Some OPEN Network spaces may have additional rules in place, which will be made clearly available to participants. Participants 
@@ -26,7 +26,7 @@ spaces at the discretion of the [OPEN Tech Team](mailto:tech@the-open.net).
 Some The OPEN Network spaces may have additional rules in place, which will be made clearly available to participants. 
 Participants are responsible for knowing and abiding by these rules.
 
-Harassment includes:
+**Harassment includes:**
 
 * Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, 
 neuro(a)typicality, physical appearance, body size, age, race, or religion.
@@ -57,10 +57,10 @@ to act on complaints regarding:
 * Communicating in a ‘tone’ you don’t find congenial
 * Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
 
-Reporting
+**Reporting**
 
 If you are being harassed by a member of The OPEN Network, notice that someone else is being harassed, or have any other 
-concerns, please contact the OPEN tech team at [tech@the-open.net](mailto:tech@the-open.net). If the person who is harassing 
+concerns, please contact Laura, Ben and Samson who are the OPEN tech team at [tech@the-open.net](mailto:tech@the-open.net). If the person who is harassing 
 you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.
 
 This code of conduct applies to OPEN Network spaces, but if you are being harassed by a member of the OPEN Network outside 
@@ -77,7 +77,7 @@ name a person about whom we’ve received harassment complaints, or privately wa
 doing so will increase the safety of OPEN Network members or the general public. We will not name harassment victims without 
 their affirmative consent.
 
-Consequences
+**Consequences**
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
@@ -85,7 +85,7 @@ If a participant engages in harassing behavior, the OPEN tech team may take any 
 including expulsion from all OPEN Network spaces and identification of the participant as a harasser to other OPEN Network 
 members or the general public.
 
-Attribution
+**Attribution**
 
 This anti-harassment policy is based on the [example policy](http://geekfeminism.wikia.com/wiki/Community_anti-harassment) 
 from the Geek Feminism wiki, created by the Geek Feminism community.

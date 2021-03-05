@@ -1,4 +1,4 @@
-# CODE OF CONDUCT
+# The OPEN community code of conduct
  
 
 ## Summary

@@ -1,7 +1,7 @@
-CODE OF CONDUCT
+# CODE OF CONDUCT
 ===============
 
-Summary
+## Summary
 ---------------
 The OPEN Network is dedicated to providing a harassment-free experience for everyone, regardless ofgender, gender identity and expression, sexual identity and orientation, visible or invisible disability, physical appearance, body size, age, socio-economic status, class, position or role, language, level of experience or education, mental and physical ability, culture, nationality, immigration status, ethnicity, family status, caste, colour, race, or religion or lack thereof. We do not tolerate harassment of participants in any form.
 
@@ -18,7 +18,7 @@ This code of conduct applies to all the OPEN Network spaces, including our maili
 Some OPEN Network spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.
 
 
-Full version
+## Full version
 --------------
 
 The OPEN Network is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual identity and orientation, visible or invisible disability, physical appearance, body size, age, socio-economic status, class, position or role, language, level of experience or education, mental and physical ability, culture, nationality, immigration status, ethnicity, family status, caste, colour, race, or religion or lack thereof. 
@@ -39,28 +39,47 @@ If you believe someone is violating the code of conduct, we ask that you report 
 * **Be respectful.** Not all of us will agree all the time, but disagreement is no excuse for poor behaviour and poor manners. We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack. It’s important to remember that a community where people feel uncomfortable or threatened is not a productive one. 
 
 * **Be careful in the words and images that you choose and be kind to others.** Do not insult or put down other people. Harassment and other exclusionary behaviour aren’t acceptable. In general, if someone asks you to stop, then stop. Persisting in such behaviour after being asked to stop is considered harassment. This includes, but is not limited to:
+  * Offensive comments related to gender, gender identity and expression, sexual identity and orientation, visible or invisible disability, physical appearance, body size, age, socio-economic status, class, position or role, language, level of experience or education, mental and physical ability, culture, nationality, immigration status, ethnicity, family status, caste, colour, race, or religion or lack thereof. 
 
-* Offensive comments related to gender, gender identity and expression, sexual identity and orientation, visible or invisible disability, physical appearance, body size, age, socio-economic status, class, position or role, language, level of experience or education, mental and physical ability, culture, nationality, immigration status, ethnicity, family status, caste, colour, race, or religion or lack thereof. 
-* Unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment.
-* Deliberate misgendering or use of ‘dead’ or rejected names.
-* Gratuitous or off-topic sexual images or behaviour in spaces where they’re not appropriate.
-* Physical contact and simulated physical contact (eg, textual descriptions like “hug” or “backrub”) without consent or after a request to stop.
-* Threats of violence.
-* Incitement of violence towards any individual, including encouraging a person to commit suicide or to engage in self-harm.
-* Deliberate intimidation.
-* Stalking or following.
-* Harassing photography or recording, including logging online activity for harassment purposes.
-* Sustained disruption of discussion.
-* Unwelcome sexual attention.
-* Pattern of inappropriate social contact, such as requesting/assuming inappropriate levels of intimacy with others
-* Continued one-on-one communication after requests to cease.
-* Deliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect vulnerable people from intentional abuse.
-* Publication of non-harassing private communication.
-* Discriminatory jokes and language.
-* Posting sexually explicit or violent material.
-* Posting (or threatening to post) other people’s personally identifying information (“doxing”).
-* Personal insults, especially those using racist or sexist terms.
-* Advocating for, or encouraging, any of the above behaviour.
+  * Unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment.
+
+  * Deliberate misgendering or use of ‘dead’ or rejected names.
+
+  * Gratuitous or off-topic sexual images or behaviour in spaces where they’re not appropriate.
+
+  * Physical contact and simulated physical contact (eg, textual descriptions like “hug” or “backrub”) without consent or after a request to stop.
+
+  * Threats of violence.
+
+  * Incitement of violence towards any individual, including encouraging a person to commit suicide or to engage in self-harm.
+
+  * Deliberate intimidation.
+
+  * Stalking or following.
+
+  * Harassing photography or recording, including logging online activity for harassment purposes.
+
+  * Sustained disruption of discussion.
+
+  * Unwelcome sexual attention.
+
+  * Pattern of inappropriate social contact, such as requesting/assuming inappropriate levels of intimacy with others
+
+  * Continued one-on-one communication after requests to cease.
+
+  * Deliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect vulnerable people from intentional abuse.
+
+  * Publication of non-harassing private communication.
+
+  * Discriminatory jokes and language.
+
+  * Posting sexually explicit or violent material.
+
+  * Posting (or threatening to post) other people’s personally identifying information (“doxing”).
+
+  * Personal insults, especially those using racist or sexist terms.
+
+  * Advocating for, or encouraging, any of the above behaviour.
 
 This isn’t an exhaustive list of things that you can’t do. Rather, take it in the spirit in which it’s intended - a guide to make it easier to communicate and participate in the community.
 
@@ -81,7 +100,8 @@ The OPEN Network prioritizes marginalized people’s safety over privileged peop
 * Communicating in a ‘tone’ you don’t find congenial
 * Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
 
-**Reporting Guide**
+### **Reporting Guide**
+
 If you are being harassed by a member of The OPEN Network, notice that someone else is being harassed, if you believe someone is violating the code of conduct, or have any other concerns, please contact Laura, Ben and Samson who are the OPEN tech team at tech@the-open.net. If the person who is violating this code is on this team, please additionally report to Giovanna at giovanna@the-open.net. We will respond as promptly as we can.
 
 This code of conduct applies to OPEN Network spaces, as described above, but if you are being harassed by a member of the OPEN Network outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by OPEN members seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The abuse team reserves the right to exclude people from OPEN events and spaces based on their past behavior, including behavior outside OPEN spaces and behavior towards people who are not in the OPEN Network.
@@ -90,14 +110,15 @@ In order to protect volunteers and staff from abuse and burnout, we reserve the 
 
 We will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom we’ve received harassment complaints, or privately warn third parties about them, if we believe that doing so will increase the safety of OPEN members or the general public. We will not name harassment victims without their affirmative consent.
 
-**Consequences**
+### **Consequences**
+
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
 If a participant engages in harassing behavior, the OPEN team may take any action they deem appropriate, up to and including expulsion from all OPEN spaces and identification of the participant as a harasser to other OPEN Network members or the general public.
 
  
  
-**Attribution**
+### **Attribution**
 
 This code is adapted from several sources including: 
 * the [example policy](http://geekfeminism.wikia.com/wiki/Community_anti-harassment) 

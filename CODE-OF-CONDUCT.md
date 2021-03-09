@@ -3,7 +3,7 @@
 
 ## Summary
 ---------------
-The OPEN Network is dedicated to providing a harassment-free experience for everyone, regardless ofgender, gender identity and expression, sexual identity and orientation, visible or invisible disability, physical appearance, body size, age, socio-economic status, class, position or role, language, level of experience or education, mental and physical ability, culture, nationality, immigration status, ethnicity, family status, caste, colour, race, or religion or lack thereof. We do not tolerate harassment of participants in any form.
+The OPEN Network is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual identity and orientation, visible or invisible disability, physical appearance, body size, age, socio-economic status, class, position or role, language, level of experience or education, mental and physical ability, culture, nationality, immigration status, ethnicity, family status, caste, colour, race, or religion or lack thereof. We do not tolerate harassment of participants in any form.
 
 We encourage you to:
 * be friendly and patient,

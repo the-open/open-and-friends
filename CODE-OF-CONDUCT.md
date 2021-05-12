@@ -17,6 +17,8 @@ This code of conduct applies to all the OPEN Network spaces, including our maili
 
 Some OPEN Network spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.
 
+If you believe someone is violating the code of conduct, please report it by emailing conduct@the-open.net.
+
 
 ## Full version
 --------------
@@ -27,7 +29,7 @@ This code of conduct applies to all the OPEN Network spaces, including our maili
 
 Some OPEN Network spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.
 
-If you believe someone is violating the code of conduct, we ask that you report it by emailing tech@the-open.net. For more details please see our Reporting Guide below. 
+If you believe someone is violating the code of conduct, please report it by emailing conduct@the-open.net. For more details please see our Reporting Guide below. 
 
 
 * **Be friendly and patient.**
@@ -102,7 +104,7 @@ The OPEN Network prioritizes marginalized people’s safety over privileged peop
 
 ### **Reporting Guide**
 
-If you are being harassed by a member of The OPEN Network, notice that someone else is being harassed, if you believe someone is violating the code of conduct, or have any other concerns, please contact Laura, Ben and Samson who are the OPEN tech team at tech@the-open.net. If the person who is violating this code is on this team, please additionally report to Giovanna at giovanna@the-open.net. We will respond as promptly as we can.
+If you are being harassed by a member of The OPEN Network, notice that someone else is being harassed, if you believe someone is violating the code of conduct, or have any other concerns, please email conduct@the-open.net, which goes to our conduct team (Aurora Adams, Laura James and Shilpa Mudiganti). If the person who is violating this code is on this team, or is an OPEN staff member, please email Avi who is the ombudsperson for OPEN's governing body. We will respond as promptly as we can.
 
 This code of conduct applies to OPEN Network spaces, as described above, but if you are being harassed by a member of the OPEN Network outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by OPEN members seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The abuse team reserves the right to exclude people from OPEN events and spaces based on their past behavior, including behavior outside OPEN spaces and behavior towards people who are not in the OPEN Network.
 
